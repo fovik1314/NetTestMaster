@@ -10,7 +10,7 @@
 
 ## Demo
 
-![](https://github.com/xyz4567/NetTestMaster/blob/ea70d212561f824890fd53b173afd8a5073f3928/Demo/Demo.png)
+![](https://github.com/fovik1314/NetTestMaster/blob/c7f8e2959ee02be024c2325ed2638b774b8a6a1f/Demo/Demo.png)
 
 ## 目录
 
