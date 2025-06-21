@@ -17,7 +17,7 @@
 <details>
 <summary>Demo</summary>
 
-![](https://github.com/fovik1314/NetTestMaster/blob/c7f8e2959ee02be024c2325ed2638b774b8a6a1f/Demo/Demo.png)
+![](https://github.com/fovik1314/NetTestMaster/blob/0ec535a90917fcbac4eac128f19705ff34761ca5/Demo/Demo.png)
 
 </details>
 
